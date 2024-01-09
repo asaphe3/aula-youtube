@@ -15,3 +15,4 @@ jobs:
           username: asaphe@asaphedev.com.br
           password: ${{ secrets.ftp_password }}
           port: 21 # todo replace with your web hosts ftps port
+          server-dir: teste/
